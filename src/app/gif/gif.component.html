@@ -1,0 +1,12 @@
+<div
+  id="infinite-scroll"
+  class="container"
+  snScroll
+  (scrollEnd)="onScrollEnd()"
+  >
+  <ul>
+    <li *ngFor="let URL of URLList">
+      <img [src]="URL" alt="">
+    </li>
+  </ul>
+</div>

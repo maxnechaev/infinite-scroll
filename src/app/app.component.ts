@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'infinite-gifs';
+  title = 'SCROLL DOWN FOR INFINITE GIFS ROLL';
 }
