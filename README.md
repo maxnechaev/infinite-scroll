@@ -1,5 +1,9 @@
 # InfiniteGifs
 
+Simple app that loads random gifs from https://giphy.com/ and loads them as a user scrolls the page down.
+
+*N.B. Gifs may stop loading due to CORS issue.*
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
