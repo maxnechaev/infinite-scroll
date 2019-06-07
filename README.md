@@ -1,4 +1,4 @@
-# Infinite Gifs
+# Infinite Gifs Scroll
 
 Simple app that loads random gifs from https://giphy.com/ and loads them as a user scrolls the page down.
 
